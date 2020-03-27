@@ -1,0 +1,11 @@
+type Car{
+	id: ID! @id
+	name: String
+  owner: User! @relation(link: INLINE)
+}
+
+type User {
+  id: ID! @unique @id
+  name: String!
+	cars: [Car!] 
+}
