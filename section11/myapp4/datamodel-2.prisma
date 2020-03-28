@@ -1,0 +1,7 @@
+type User {
+  id: ID! @unique  @id
+  firstName: String!
+  lastName: String!
+  hobbies: [String!]! @scalarList(strategy: RELATION)
+  partner: User
+}

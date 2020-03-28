@@ -1,0 +1,9 @@
+endpoint: http://localhost:4466/myapp4/dev
+
+# eric 
+datamodel: datamodel.prisma
+
+disableAuth: true
+
+seed:
+  import: seed.graphql

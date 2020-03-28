@@ -66,3 +66,8 @@ main().catch(e => console.error(e))
 
 
 # npm run start
+
+
+---
+yaml structure: 
+https://www.prisma.io/docs/reference/service-configuration/prisma.yml/yaml-structure-ufeshusai8

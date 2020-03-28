@@ -1,0 +1,11 @@
+endpoint: http://localhost:4466/myapp3/dev
+
+
+datamodel: datamodel.prisma
+
+# to enable auth, provide
+# secret: my-secret
+disableAuth: true
+
+seed:
+  import: seed.graphql

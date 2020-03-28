@@ -26,6 +26,9 @@ GraphQLEditor
 添加 relationship between Car and User
 
 # section 9 
-TODO: add seed , 添加初始化数据。
+add seed , 添加初始化数据。
 
 # section 10
+导出数据 
+
+# section 11 

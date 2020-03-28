@@ -1,0 +1,15 @@
+{
+  "valueType": "nodes",
+  "values": [
+    {
+      "_typeName": "User",
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "_typeName": "User",
+      "firstName": "Sarah",
+      "lastName": "Doe"
+    }
+  ]
+}
