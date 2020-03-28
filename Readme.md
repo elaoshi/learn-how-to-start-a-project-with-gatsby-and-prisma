@@ -29,6 +29,12 @@ GraphQLEditor
 add seed , 添加初始化数据。
 
 # section 10
-导出数据 
+导出数据 prisma export
 
 # section 11 
+导入数据 prisma import
+
+# section 12
+hook in config
+
+# section 13
