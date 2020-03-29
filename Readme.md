@@ -37,4 +37,12 @@ add seed , 添加初始化数据。
 # section 12
 hook in config
 
-# section 13
+# section 13 
+not work ( skip )
+
+# section 14
+prisma playground
+generate javascript client 
+
+# section 15
+react with apllo-client / server and prisma ORM project

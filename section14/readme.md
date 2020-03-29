@@ -24,3 +24,11 @@ https://us1.prisma.sh/eric-xxxx/hello-world/dev/_admin
 # then import data
 prisma import -d ex.....
 
+
+# run 
+prisma playground
+
+so we can play with data
+
+# change client type to javascript , then run : 
+prisma generate

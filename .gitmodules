@@ -1,0 +1,3 @@
+[submodule "section15/a-starter-for-react-apollo-prisma"]
+	path = section15/a-starter-for-react-apollo-prisma
+	url = https://github.com/elaoshi/a-starter-for-react-apollo-prisma.git
