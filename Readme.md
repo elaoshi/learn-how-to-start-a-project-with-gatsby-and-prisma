@@ -1,4 +1,4 @@
-# a starter to learn how to build blog with gatsby and prisma
+# a starter to learn how to build blog with react and prisma
 
 # section 1 
 create a prisma project with docker 
